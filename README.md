@@ -19,10 +19,12 @@ Operação Vs Analítico
    * No analítico, o dado não tem valor individual, mas coletivo. Deve ser corrigido pelo "bem" do modelo:
        * Ex,: Prever o custo de clientes com determinadas características e o modelo não permite valores faltantes. Alterar a idade faltante para a mediana não deve afetar a operação e não pode causar enviesamento no modelo.
        
-Problemas encontrados em dados:
+Problemas mais encontrados nos dados:
     
    * Duplicidade
    * Consistência
    * Completude
    * Conformidade
    * Integridade
+
+Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana.
