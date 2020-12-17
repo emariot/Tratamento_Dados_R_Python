@@ -27,4 +27,4 @@ Problemas mais encontrados nos dados:
    * Conformidade
    * Integridade
 
-Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana.
+** Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana dos dados.
