@@ -37,12 +37,10 @@ Problemas mais encontrados nos dados:
 
 
 * BoxPlot
-
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>
 
 
 * Histograma
-
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png" align="left" height="450" width="650" ></a>
 
 ---
