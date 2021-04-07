@@ -29,21 +29,21 @@ Problemas mais encontrados nos dados:
 
 ** Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana dos dados.
 
-## Alguns exemplos de gráficos com R, com o pacote ggplot2.
+## Alguns exemplos de gráficos com R, com o pacote ggplot2
 ---
-* BarPlot
+
+#### BarPlot
 
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>
 
 
-* BoxPlot
+#### BoxPlot
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>
 
 
-* Histograma
+#### Histograma
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png" align="left" height="450" width="650" ></a>
 
----
-
+#### Histograma_2
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png" align="left" height="450" width="650" ></a>
 
