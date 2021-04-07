@@ -32,14 +32,13 @@ Problemas mais encontrados nos dados:
 ## Alguns exemplos de gráficos com R, com o pacote ggplot2
 ---
 
-#### BarPlot
+|    BarPlot   |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>|
 
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>
-
-<br>
-#### BoxPlot
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>
-<br>
+|    BoxPlot   |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>|
 
 | Histograma 1 | Histograma 2 |
 | ------------ | ------------- |
