@@ -44,3 +44,14 @@ Problemas mais encontrados nos dados:
 | ------------ | ------------- |
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png" align="left" height="450" width="650" ></a> | <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png" align="left" height="450" width="650" ></a>
 
+|   LineChart  |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/linechart.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/linechart.png" align="left" height="450" width="650" ></a>|
+
+| ScatterPlot  |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/scatterplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/scatterplot.png" align="left" height="450" width="650" ></a>|
+
+|    Treemap   |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png" align="left" height="450" width="650" ></a>|
