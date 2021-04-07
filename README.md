@@ -34,3 +34,7 @@ Problemas mais encontrados nos dados:
 * BarPlot
 
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>
+
+* BoxPlot
+
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>
