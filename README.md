@@ -32,4 +32,5 @@ Problemas mais encontrados nos dados:
 ## Alguns exemplos de gráficos com R, com o pacote ggplot2.
 ---
 * BarPlot
-![alt text](https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png)
+* 
+<a href="url"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="48" width="48" ></a>
