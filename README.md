@@ -63,7 +63,9 @@ Problemas mais encontrados nos dados:
 1. Sumarizar os dados com as médias de cada coluna de acordo com a categoria
   > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"></a>
 
+2. Extrair o valor inteiro de uma das colunas decimais
+  > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_2.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_2.PNG"></a>
 
-
-  2. Extrair o valor inteiro de uma das colunas decimais
+3. Gráfico com relação entre comprimento e largura das pétalas
+  > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG" align="left" height="450" width="650" ></a>|
    
