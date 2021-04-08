@@ -60,8 +60,8 @@ Problemas mais encontrados nos dados:
 ## R/Tratamento_Iris.ipynb
 ### Pequeno tratamento no dataset iris
 ---
-  1. Sumarizar os dados com as médias de cada coluna de acordo com a categoria
-  <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"></a>
+1. Sumarizar os dados com as médias de cada coluna de acordo com a categoria
+  > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG"></a>
 
 
 
