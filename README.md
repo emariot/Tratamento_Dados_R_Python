@@ -67,5 +67,5 @@ Problemas mais encontrados nos dados:
   > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_2.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_2.PNG"></a>
 
 3. Gráfico com relação entre comprimento e largura das pétalas
-  > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG" align="left" height="450" width="650" ></a>|
+  > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.PNG" align="left" height="450" width="650" ></a>
    
