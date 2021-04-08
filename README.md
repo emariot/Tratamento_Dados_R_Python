@@ -57,6 +57,6 @@ Problemas mais encontrados nos dados:
 | ------------ |
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png" align="left" height="450" width="650" ></a>|
 
-## R/Tratamento iris.ipynb
-### Alguns exemplos de gráficos com R, com o pacote ggplot2
+## R/Tratamento_Iris.ipynb
+### Pequeno tratamento no dataset iris
 ---
