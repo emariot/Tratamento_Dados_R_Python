@@ -29,6 +29,7 @@ Problemas mais encontrados nos dados:
 
 ** Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana dos dados.
 
+# R/Gráficos
 ## Alguns exemplos de gráficos com R, com o pacote ggplot2
 ---
 
