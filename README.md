@@ -62,5 +62,6 @@ Problemas mais encontrados nos dados:
 ---
 * 1. Sumarizar os dados com as médias de cada coluna de acordo com a categoria
 ![alt text](https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_1.PNG)
+
 * 2. Extrair o valor inteiro de uma das colunas decimais
 ![alt text](https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_2.PNG)
