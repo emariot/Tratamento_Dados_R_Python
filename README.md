@@ -29,8 +29,8 @@ Problemas mais encontrados nos dados:
 
 ** Eventualmente substituimos variaveis categóricas pela moda e quantitativas pela mediana dos dados.
 
-# R/Gráficos
-## Alguns exemplos de gráficos com R, com o pacote ggplot2
+## R/Gráficos.ipynb
+### Alguns exemplos de gráficos com R, com o pacote ggplot2
 ---
 
 |    BarPlot   |
@@ -56,3 +56,7 @@ Problemas mais encontrados nos dados:
 |    Treemap   |
 | ------------ |
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/treemap.png" align="left" height="450" width="650" ></a>|
+
+## R/Tratamento iris.ipynb
+### Alguns exemplos de gráficos com R, com o pacote ggplot2
+---
