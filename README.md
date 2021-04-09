@@ -34,6 +34,10 @@ Problemas mais encontrados nos dados:
 ### Alguns exemplos de gráficos com Python, com o pacote matplotlib e seaborn
 ---
 
+|    DisPlot   |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>|
+
 ## R/Gráficos.ipynb
 ### Alguns exemplos de gráficos com R, com o pacote ggplot2
 ---
