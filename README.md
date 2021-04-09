@@ -36,7 +36,7 @@ Problemas mais encontrados nos dados:
 
 |    DisPlot   |
 | ------------ |
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png" align="left" height="450" width="650" ></a>|
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png" align="left" height="400" width="600" ></a>|
 
 | Histograma 1 | Histograma 2 |
 | ------------ | ------------- |
@@ -44,11 +44,11 @@ Problemas mais encontrados nos dados:
 
 |    Schatter  |
 | ------------ |
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png" align="left" height="450" width="650" ></a>|
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png" align="left" height="400" width="600" ></a>|
 
 |    BoxPLot   |
 | ------------ |
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png" align="left" height="450" width="650" ></a>|
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png" align="left" height="400" width="600" ></a>|
 
 ## R/Gráficos.ipynb
 ### Alguns exemplos de gráficos com R, com o pacote ggplot2
