@@ -36,7 +36,19 @@ Problemas mais encontrados nos dados:
 
 |    DisPlot   |
 | ------------ |
-<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/barplot.png" align="left" height="450" width="650" ></a>|
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/displot.png" align="left" height="450" width="650" ></a>|
+
+| Histograma 1 | Histograma 2 |
+| ------------ | ------------- |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/disp.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/disp.png" align="center" ></a> | <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/disp_2.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/disp_2.png" align="center" ></a>
+
+|    Schatter  |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/schater.png" align="left" height="450" width="650" ></a>|
+
+|    BoxPLot   |
+| ------------ |
+<a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/Python/img/boxplot.png" align="left" height="450" width="650" ></a>|
 
 ## R/Gráficos.ipynb
 ### Alguns exemplos de gráficos com R, com o pacote ggplot2
@@ -50,7 +62,7 @@ Problemas mais encontrados nos dados:
 | ------------ |
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/boxplot.png" align="left" height="450" width="650" ></a>|
 
-| Histograma 1 | Histograma 2 |
+| Linha 1 | Dispersão 2 |
 | ------------ | ------------- |
 <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/hist.png" align="center" ></a> | <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/histogram.png" align="center" ></a>
 
