@@ -69,3 +69,6 @@ Problemas mais encontrados nos dados:
 3. Gráfico com relação entre comprimento e largura das pétalas
   > <a href="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.png"><img src="https://github.com/emariot/Tratamento_Dados_R_Python/blob/main/R/img/iris_3.png" align="left" height="450" width="650" ></a>
    
+## Python/Gráficos.ipynb
+### Alguns exemplos de gráficos com Python, com o pacote matplotlib e seaborn
+---
